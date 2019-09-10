@@ -1,0 +1,7 @@
+{
+  "name": "nodejs-datastore",
+  "repository": "googleapis/nodejs-datastore",
+  "dependencies": {
+    "@google-cloud/datastore": "^4.2.0"
+     }
+}
